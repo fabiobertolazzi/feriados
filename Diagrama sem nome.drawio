@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T20:48:58.920Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" version="22.0.8" etag="H7emlULSJUxk1eSj2Gc9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T21:02:11.819Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="OlHfxZrfKsq8X9V8kTkG" version="22.0.8" type="github">
   <diagram name="Página-1" id="yKmaqPDa1m_XpfC77KCf">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="soPhUvelNPUdPLwwvqqN-1" value="RDS" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="588" y="216" width="72" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="soPhUvelNPUdPLwwvqqN-2" value="Lambda" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="308" y="216" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="soPhUvelNPUdPLwwvqqN-5" value="API Gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="443.25" y="210" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="soPhUvelNPUdPLwwvqqN-7" value="Route53" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.route_53;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="168" y="213.75" width="70.5" height="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="soPhUvelNPUdPLwwvqqN-8" value="Users" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="440" width="66" height="63" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
